@@ -1,0 +1,9 @@
+**/node_modules
+**/bower_components
+.idea
+*.env
+**/lib
+client/lib
+/bower.json
+.eslintrc
+client/apiKey.js
